@@ -12,7 +12,8 @@
       "com.google.android.gms",
       "com.android.chrome",
       "com.android.axion.widgets",
-      "com.android.edge.bar"
+      "com.libremobileos.sidebar",
+      "com.libremobileos.clock"
     ],
     "ramConfigs": {
       "6GB": {
